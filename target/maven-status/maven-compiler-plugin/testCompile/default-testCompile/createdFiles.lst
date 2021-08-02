@@ -1,0 +1,9 @@
+Common\Selectors.class
+Common\Utility.class
+Common\Waits.class
+PageObjects\ArticlePage.class
+PageObjects\MainPage.class
+Common\BaseClass$1.class
+Common\BaseClass.class
+Common\Listener.class
+Tests\TagsSuite.class
