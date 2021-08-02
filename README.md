@@ -2,6 +2,10 @@
 
 Написать автоматический сценарий/сценарии для проверки фильтрации записей по тегам на сайте https://demo.realworld.io. Добавить документацию, необходимую для работы с проектом автоматизации.
 
+Поправка:
+
+Оригинальный сайт работает крайне нестабильно, API отдает 504 ошибки. То же и с большинством других реализаций данного приложения. Удалось найти наиболее близкий и рабочий аналог по адресу https://cirosantilli-realworld-next.herokuapp.com/ (https://github.com/cirosantilli/node-express-sequelize-nextjs-realworld-example-app)
+
 Требования к системе:
 - Windows 7-10
 - [Java 8](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
