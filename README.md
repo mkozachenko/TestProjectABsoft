@@ -9,7 +9,10 @@
 - [NodeJS](https://nodejs.org/uk/download/)
 - [Allure commandline](https://www.npmjs.com/package/allure-commandline)
 
-
 Запуск: 
 
 Открыть системную консоль (cmd), в ней перейти к директории с проектом и там запустить следующую команду: `mvn clean test -e -DxmlSuite=mainSuite.xml`
+
+Отчет:
+
+Чтобы открыть отчет по прошедшим тестам, запустите файл `allureServe.bat` в папке проекта
